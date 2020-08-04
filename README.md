@@ -1,7 +1,7 @@
 ### Hi there 👋
 - My other handles
 * https://medium.com/@samarth0174
-* linkedin.com/in/samarth0174
+*  https://linkedin.com/in/samarth0174
 
       
 
