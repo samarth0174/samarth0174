@@ -1,18 +1,20 @@
 # Hi there 👋, Welcome to my Github Profile
-🔭 __About me:__  I am Samarth, a final year student pursuing Bachelors in Tech. (Computer Science and  Engineering). I am a I'm a Contemplative coder and Data science enthusiast.I love visualising and playing with data specially Images.
-I'm passionate about using data to learn causal realtionships and extract decision making insight.
-
-I am a firm believer of Data Driven Decision making and want to build Data Driven Solutions. 
+🔭 __About me:__  I am Samarth, a final year student pursuing Bachelors in Computer Science and  Engineering @ Vellore institute of Technology , Vellore.
+> I am a I'm a Contemplative coder and Data science enthusiast.
+> I'm passionate about using data to learn causal realtionships and extract decision making insight.
+> I am a firm believer of Data Driven Decision making and want to build Data Driven Solutions. 
 
 Checkout my [Resume](https://drive.google.com/file/d/1JfHnd31LYdU5P6CN6jTkQPgGRNKkWFuz/view?usp=sharing)
 
 Checkout my medium blog: https://medium.com/@samarth0174
 
+My Hackkerank Profile : https://www.hackerrank.com/samarthgupta0174
+
 # Skills🥇
 
 ## Languages
 
-> Python 3, Java , SQL , Arduino, Php  , JavaScript , Android(Native - JAVA)
+> Java , Python 3 , SQL , Arduino, Php  , JavaScript , Android(Native - JAVA)
 
 ## OS
 > Linux/GNU, Windows
