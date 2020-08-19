@@ -4,7 +4,7 @@ I'm passionate about using data to learn causal realtionships and extract decisi
 
 I am a firm believer of Data Driven Decision making and want to build Data Driven Solutions. 
 
-Checkout my [Resume](https://www.dropbox.com/s/7w3815l96rx23ev/Ankur_Resume.pdf?dl=0)
+Checkout my [Resume](https://drive.google.com/file/d/1JfHnd31LYdU5P6CN6jTkQPgGRNKkWFuz/view?usp=sharing)
 
 Checkout my medium blog: https://medium.com/@samarth0174
 
@@ -38,10 +38,6 @@ Checkout my medium blog: https://medium.com/@samarth0174
 
 >👉 Cloud Computing 
 
->👉 Serverless and ML Deployment over Azure Pipelines
-
->👉 ML deployment: Android and iOS --> Tflite, Tf.js, CoreML
-
 >👉 ML deployment: Rpi --> Tflite micro,Docker
 
 >👉 Docker,Kubernetes,Azure,GCP
@@ -57,6 +53,7 @@ Checkout my medium blog: https://medium.com/@samarth0174
 
 📱  [LinkedIn](https://www.linkedin.com/in/samarth0174/)
 
+Go ahead and take a look at my GIHTUB repo which highlights my latest projects.
 <!--
 **samarth0174/samarth0174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
