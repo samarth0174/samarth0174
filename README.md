@@ -24,39 +24,40 @@ My Hackkerank Profile : https://www.hackerrank.com/samarthgupta0174
 > Machine Learning, Deep Learning, Predictive Modelling, Data Analysis, Data Visualization, Computer Vision, SQL, Natural Language Processing, Image Processing,GeoSpatial Data Visualization,Statistics.
 
 ## Frameworks and Libraries
->TensorFlow 2, Keras, Sklearn, SKimage, NLTK, Flask, Jupyter
+>TensorFlow 2, Keras, Sklearn, SKimage, NLTK, Flask, Jupyter, seaborn
 >ggplot2, Matplotlib, numpy, scipy, D-Lib, open-cv, Firebase, SQL, Pandas, json
 
 ## Databases
 > MYSQL, SQLite, No SQL, Firebase
 
 ## IoT
->Arduino with sensors, Raspberry Pi,NodeMCU
+>Arduino,NodeMCU
 
 ## Other
->Data structures and Algorithms , Object Oriented , VScode , Sublime Text , Github
+>Data structures and Algorithms , Object Oriented , VScode , Sublime Text , Github , Google Collab
 
 # Currently Learning🎯
->👉 ml and data pipelines
+>👉 ml and data pipelines 
 
->👉 Cloud Computing 
+>👉 ML deployment
 
->👉 ML deployment: Rpi --> Tflite micro,Docker
+>👉 EDA
 
->👉 Docker,Kubernetes,Azure,GCP
+>👉 MLOps
 
 # Looking to Collaborate on 👯
-> I’m looking to collaborate on Almost anything related to ML and beyond. Always looking for great opportunities and Ideas  
+> I’m looking to collaborate on Almost anything related to ML and beyond. Always looking for great opportunities and Ideas.
 
 # ASK ME ABOUT 💬
-> Ask me about Machine Learning, Deep Learning, Image Processing, Computer Vision
+> Ask me about Data Structures , Algorithms, Machine Learning, Deep Learning, Image Processing, Computer Vision
 
 # CONTACT ME 📫
 📩 [Email](mailto:samarth0174@gmail.com)
 
 📱  [LinkedIn](https://www.linkedin.com/in/samarth0174/)
 
-Go ahead and take a look at my GIHTUB repo which highlights my latest projects.
+Go ahead and take a look at my repositories which highlights my latest projects.
+Feel free to make PRs and forks, always up for collaborations.
 <!--
 **samarth0174/samarth0174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
