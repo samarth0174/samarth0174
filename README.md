@@ -1,8 +1,8 @@
 # Hi there 👋, Welcome to my Github Profile
 🔭 __About me:__  I am Samarth, a final year student pursuing Bachelors in Computer Science and  Engineering @ Vellore institute of Technology , Vellore.
-> I am a I'm a Contemplative coder and Data science enthusiast.
-> I'm passionate about using data to learn causal realtionships and extract decision making insight.
-> I am a firm believer of Data Driven Decision making and want to build Data Driven Solutions. 
+I'm a Contemplative coder and Data science enthusiast.
+I'm passionate about using data to learn causal realtionships and extract decision making insight.
+I'm a firm believer of Data Driven Decision making and want to build solutions around data. 
 
 Checkout my [Resume](https://drive.google.com/file/d/1JfHnd31LYdU5P6CN6jTkQPgGRNKkWFuz/view?usp=sharing)
 
