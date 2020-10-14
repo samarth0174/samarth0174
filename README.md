@@ -18,9 +18,6 @@ Checkout my medium blog: https://medium.com/@samarth0174
 
 My Hackkerank Profile : https://www.hackerrank.com/samarthgupta0174
 
-![Samarth's github stats](https://github-readme-stats.vercel.app/api?username=samarth0174&count_private=true&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth0174&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 # Skills🥇
 
 ## Languages
@@ -66,8 +63,14 @@ My Hackkerank Profile : https://www.hackerrank.com/samarthgupta0174
 
 📱  [LinkedIn](https://www.linkedin.com/in/samarth0174/)
 
+
+
+![Samarth's github stats](https://github-readme-stats.vercel.app/api?username=samarth0174&count_private=true&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth0174&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 Go ahead and take a look at my repositories which highlights my latest projects.
 Feel free to make PRs and forks, always up for collaborations.
+
 <!--
 **samarth0174/samarth0174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
