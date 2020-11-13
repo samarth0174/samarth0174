@@ -22,17 +22,18 @@ My Hackkerank Profile : https://www.hackerrank.com/samarthgupta0174
 
 ## Languages
 
-> Java , Python 3 , SQL , Arduino, Php  , JavaScript , Android(Native - JAVA)
+> Java , Python 3 , SQL , Arduino, Php  , JavaScript , Android(Native - JAVA) , R (Basic)
 
 ## OS
 > Linux/GNU, Windows
 
 ## Data Science
-> Machine Learning, Deep Learning, Predictive Modelling, Data Analysis, Data Visualization, Computer Vision, SQL, Natural Language Processing, Image Processing,GeoSpatial Data Visualization,Statistics.
+> Machine Learning, Deep Learning, Predictive Modelling, Data Analysis, Data Visualization, Computer Vision, SQL, Natural Language Processing, Image Processing,GeoSpatial Data Visualization,Statistics
 
 ## Frameworks and Libraries
->TensorFlow 2, Keras, Sklearn, SKimage, NLTK, Flask, Jupyter, seaborn
->ggplot2, Matplotlib, numpy, scipy, D-Lib, open-cv, Firebase, SQL, Pandas, json
+>TensorFlow 2, Keras, Sklearn, SKimage, NLTK, Flask, Jupyter, seaborn 
+>ggplot2, Matplotlib, numpy, scipy, D-Lib, open-cv, Firebase, SQL, Pandas, json 
+> Dash , Streamlit
 
 ## Databases
 > MYSQL, SQLite, No SQL, Firebase
@@ -42,15 +43,6 @@ My Hackkerank Profile : https://www.hackerrank.com/samarthgupta0174
 
 ## Other
 >Data structures and Algorithms , Object Oriented , VScode , Sublime Text , Github , Google Collab
-
-# Currently Learning🎯
->👉 ml and data pipelines 
-
->👉 ML deployment
-
->👉 EDA
-
->👉 MLOps
 
 # Looking to Collaborate on 👯
 > I’m looking to collaborate on Almost anything related to ML and beyond. Always looking for great opportunities and Ideas.
@@ -62,7 +54,6 @@ My Hackkerank Profile : https://www.hackerrank.com/samarthgupta0174
 📩 [Email](mailto:samarth0174@gmail.com)
 
 📱  [LinkedIn](https://www.linkedin.com/in/samarth0174/)
-
 
 
 ![Samarth's github stats](https://github-readme-stats.vercel.app/api?username=samarth0174&count_private=true&show_icons=true&theme=tokyonight)
