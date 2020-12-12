@@ -18,6 +18,7 @@ Checkout my medium blog: https://medium.com/@samarth0174
 
 My Hackkerank Profile : https://www.hackerrank.com/samarthgupta0174
 
+![](https://komarev.com/ghpvc/?username=samarth0174&color=green)
 ![Samarth's github stats](https://github-readme-stats.vercel.app/api?username=samarth0174&count_private=true&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth0174&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
