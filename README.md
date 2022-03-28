@@ -1,18 +1,18 @@
 # Hi there 👋, Welcome to my Github Profile
 🔭 __About me:__  
-I am Samarth, Associate Data Scientist @ Bajaj Finserv Health.
-*I'm a Contemplative coder and Data enthusiast.*
+Hi, I am Samarth, self-starter & driven data science professional , passionate about using data to build data intensive solutions in different industry verticals.
 
-I'm passionate about using data: 
-* *To learn causal relationships* 
-* *Extract meaningful decision-making insights*
-* *Build Predictive Models* 
-* *To solve real-world problems in all industry verticals.* 
+➢ Working towards becoming a full stack data professional , from building end to end data pipelines, to delivering analytical insights for data driven decisions.
+
+➢ Skilled in Python , SQL , Java , ETL , Power BI , Azure Cloud, Azure Synapse DW , Azure devops & Kubernetes.
+
+➢ Areas of Interest : Data Engineering, Analytics / BI at scale & Machine Learning.
+
+➢ Research interests : Machine Intelligence , Pattern Analysis, and Geospatial data analysis
  
-*I'm a firm believer in Data-Driven Decision making and want to build data-intensive solutions.*
 
 
-Checkout my [Resume](https://drive.google.com/file/d/1JfHnd31LYdU5P6CN6jTkQPgGRNKkWFuz/view?usp=sharing)
+Checkout my [Resume]()
 
 Checkout my medium blog: https://medium.com/@samarth0174
 
