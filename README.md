@@ -18,6 +18,7 @@ Checkout my medium blog: https://medium.com/@samarth0174
 
 My Hackkerank Profile : https://www.hackerrank.com/samarthgupta0174
 
+<!----
 
 # Skills🥇
 
@@ -75,3 +76,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-->
+
